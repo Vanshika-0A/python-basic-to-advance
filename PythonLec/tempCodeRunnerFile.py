@@ -1,0 +1,1 @@
+print(acc1.name , acc1.__balance)
