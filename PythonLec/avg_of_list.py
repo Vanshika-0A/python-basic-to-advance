@@ -20,4 +20,5 @@ for i in range(n):
 avg = total / n
 
 print("Average =", avg)
-    
+print("file updated")
+
