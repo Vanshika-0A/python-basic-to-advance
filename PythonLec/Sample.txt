@@ -1,0 +1,3 @@
+this is sample
+txt file
+use fo file operations
